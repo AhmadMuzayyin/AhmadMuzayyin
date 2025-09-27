@@ -50,3 +50,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/AhmadMuzayyin/AhmadMuzayyin/output/snake.svg" alt="Snake animation" />
+
+###
